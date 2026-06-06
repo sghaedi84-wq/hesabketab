@@ -1,5 +1,5 @@
 aiogram==3.4.1
 openai
-aiottp
-pydantic<2.6.4
+aiohttp
+pydantic<2.6
 aiofiles
