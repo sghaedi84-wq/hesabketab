@@ -1,4 +1,4 @@
-aiogram==3.10.13
+aiogram==3.11.09
 openai
 aiohttp
 pydantic<2.6
