@@ -1,5 +1,1 @@
-aiogram==3.4.1
-openai
-aiohttp
-pydantic<2.6
-aiofiles
+python-3.10.9
