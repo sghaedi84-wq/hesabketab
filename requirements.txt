@@ -3,3 +3,4 @@ openai
 aiohttp
 pydantic<2.6
 aiofiles
+openpyx1
